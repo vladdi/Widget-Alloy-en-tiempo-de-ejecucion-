@@ -1,0 +1,5 @@
+<Alloy>
+	<View class="container">
+		<Require type="widget" src="com.practica05.widgetMosaicoSAC" id="mosaico"/>
+	</View>
+</Alloy>

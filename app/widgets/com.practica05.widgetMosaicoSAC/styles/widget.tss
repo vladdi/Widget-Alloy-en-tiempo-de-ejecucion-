@@ -1,0 +1,37 @@
+"Label": {
+	color: '#000',
+	font: {
+		fontSize: 18,
+		fontWeight: 'bold'
+	},
+	height: "auto",
+	width: "auto"
+},
+
+"#viewWidget": {
+	backgroundColor : "#fff",
+	layout : "vertical",
+	top : "2",
+	width: "auto",
+	height: "auto"
+},
+
+"#viewTitle": {
+	backgroundColor : "#f60",
+	width: "auto",
+	height: "25",
+	top: "2"
+},
+
+"#viewButton": {
+	backgroundColor : "#06f",
+	width: "auto",
+	height: "50",
+	layout : "horizontal",
+	top: "2"
+},
+
+"Button": {
+	width: "auto",
+	height: "auto"
+}

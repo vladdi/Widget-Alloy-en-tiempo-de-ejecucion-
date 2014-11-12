@@ -1,0 +1,13 @@
+<Alloy>
+	<View id="viewWidget">
+		<View id="viewTitle">
+			<Label id="labelTitle">miPolicia</Label>	
+		</View>
+		
+		<View id="viewButton">
+			<Button id="buttonTwitter">Twitter</Button>
+			<Button id="buttonWeb">Web</Button>
+			<Button id="buttonTramites">Trámites</Button>			
+		</View>		
+	</View>
+</Alloy>

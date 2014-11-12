@@ -1,0 +1,14 @@
+{
+    "global": {},
+    "env:development": {},
+    "env:test": {},
+    "env:production": {},
+    "os:android": {},
+    "os:blackberry": {},
+    "os:ios": {},
+    "os:mobileweb": {},
+    "dependencies": {
+        "com.practica05.widgetMosaico": "1.0",
+        "com.practica05.widgetMosaicoSAC": "1.0"
+    }
+}
